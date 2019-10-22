@@ -1,5 +1,5 @@
 ---
-name: UX
+name: User Experience
 about: Suggestions for enhancing/improving the user experience 🌈
 labels: improved ux
 
