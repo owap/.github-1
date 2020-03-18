@@ -1,11 +1,11 @@
 # Pull Request Description
 
 
-### Screenshots / Architecture Diagrams <i>(Optional)</i>
-#### "Before" Screenshot
+## Screenshots / Architecture Diagrams <i>(Optional)</i>
+### "Before" Screenshot
 
 
-#### "After" Screenshot
+### "After" Screenshot
 
 
 # Associated Issue(s)
