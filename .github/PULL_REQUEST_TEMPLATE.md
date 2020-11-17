@@ -1,7 +1,7 @@
 **JIRA Issue:** 
 <!-- Paste link to JIRA issue ☝️ -->
 
-# Pull Request Description
+## Pull Request Description
 
 
 <!-- Add before/after screenshots, if applicable -->
@@ -13,6 +13,7 @@
 <!--
 Pull Request Submitter Checklist:
 
++ Prefix PR title with issue number "PLAT-####: "
 + Link associated issue
 + Provide a description of what this PR changes
 + Provide steps for testing this PR
