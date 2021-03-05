@@ -4,10 +4,10 @@
 <!-- Urgent?
 Paste the HIGH PRIORITY emoji in front of the PR title:
 
-🟡
+🟠
 
 Examples:
-🟡  PLAT-9001: Fix inability to order imagery
+🟠  PLAT-9001: Fix inability to order imagery
     PLAT-8999: Implement new feature for delighting customers
 -->
 
