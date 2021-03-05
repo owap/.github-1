@@ -2,14 +2,12 @@
 <!-- Paste link to JIRA issue ☝️ -->
 
 <!-- Urgent?
-Paste one of these emojis at the FRONT of the title IFF it's urgent.
+Paste the HIGH PRIORITY emoji in front of the PR title:
 
-🔵      Blocking Blue: This PR prevents a teammate from doing work in this sprint
-🔴      Hot Patch Red: This PR needs to go to production as soon as it's merged
+🟡
 
 Examples:
-🔴  PLAT-9001: Fix inability to order imagery
-🔵  PLAT-9000: Fix automated test breaking the PR build
+🟡  PLAT-9001: Fix inability to order imagery
     PLAT-8999: Implement new feature for delighting customers
 -->
 
