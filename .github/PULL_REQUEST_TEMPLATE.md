@@ -1,5 +1,15 @@
-**JIRA Issue:** 
+**JIRA Issue:**
 <!-- Paste link to JIRA issue ☝️ -->
+
+<!-- Urgent?
+Paste one of these emojis at the FRONT of the title IFF it's urgent.
+
+🔵      Blocking Blue: This PR prevents a teammate from doing work in this sprint
+🔴      Hot Patch Red: This PR needs to go to production as soon as it's merged
+
+Example:
+🔵  PLAT-2222: Add custom pricing matrix API
+-->
 
 ## Pull Request Description
 
