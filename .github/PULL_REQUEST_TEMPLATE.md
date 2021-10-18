@@ -1,14 +1,13 @@
-**JIRA Issue:**
+**JIRA Issue: **
 <!-- Paste link to JIRA issue ☝️ -->
 
-<!-- Urgent?
-Paste the HIGH PRIORITY emoji in front of the PR title:
-
-🟠
+<!-- Icons:
+URGENT? Put the HIGH PRIORITY emoji in FRONT: 🟠
+UI/UX? Put the UX APPROVAL emoji at END: 🎨
 
 Examples:
 🟠  PLAT-9001: Fix inability to order imagery
-    PLAT-8999: Implement new feature for delighting customers
+    PLAT-8999: Implement new feature for delighting customers 🎨
 -->
 
 ## Pull Request Description
