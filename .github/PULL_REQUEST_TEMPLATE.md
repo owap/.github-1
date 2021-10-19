@@ -1,4 +1,4 @@
-**JIRA Issue: **
+**JIRA Issue:** 
 <!-- Paste link to JIRA issue ☝️ -->
 
 <!-- Icons:
